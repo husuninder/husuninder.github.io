@@ -3,7 +3,7 @@
 title: Sumin Hu
 
 # Name pronunciation (optional)
-name_pronunciation: Sumin Hu
+# name_pronunciation: Sumin Hu
 
 # Full name (for SEO)
 first_name: Sumin
@@ -22,7 +22,7 @@ role: Algorithm Engineer
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Stradvision
-    url: https://www.stradvision.com/sv/en
+    url: https://stradvision.com
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -42,28 +42,28 @@ profiles:
 education:
   - area: Ms Electrical Engineering
     institution: Korea Advanced Institute of Science and Technology (KAIST)
-    date_start: 2020-03-02
-    date_end: 2022-02-25
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+    #date_start: 2020-03-02
+    date_end: Feb. 2022
+    #summary: |
+    #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
+  # - area: MEng Artificial Intelligence
+  #   institution: Massachusetts Institute of Technology
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Electrical Engineering & Mechanical Engineering (Dual Degree)
+  #     Courses included:
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BS Electrical Engineering (Double Major in Mechanical Engineering)
     institution: Korea Advanced Institute of Science and Technology (KAIST)
-    date_start: 2013-09-02
-    date_end: 2020-02-28
+    # date_start: 2013-09-02
+    date_end: Feb. 2020
     summary: |
       # GPA: 3.4/4.0
       
@@ -72,17 +72,17 @@ education:
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
+  - position: Algorithm Engineer
     company_name: Stradvision
-    company_url: ''
-    company_logo: ''
+    company_url: 'stradvision.com'
+    company_logo: 'sv.png'
     date_start: 2022-02-28
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    # summary: |2-
+    #   Responsibilities include:
+    #   # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   # - lorem ipsum dolor sit amet, consectetur adipiscing elit
   # - position: Backend Software Engineer
   #   company_name: X
   #   company_url: ''
