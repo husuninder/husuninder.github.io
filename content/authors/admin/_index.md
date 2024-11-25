@@ -101,19 +101,19 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
+        description: "super enjoyable cuz it's easy"
         percent: 90
         icon: devicon/python
       - name: C++
-        description: ''
+        description: "super enjoyable cuz it's hard"
         percent: 95
         icon: devicon/cplusplus
       - name: Docker
-        description: ''
+        description: "Cuz you don't want to crash your ubuntu"
         percent: 50
         icon: devicon/docker
       - name: Ros
-        description: ''
+        description: "This makes you a full-stack roboticist with ease"
         percent: 90
         icon: devicon/ros          
       # - name: RStudio
@@ -124,22 +124,26 @@ skills:
       #   description: ''
       #   percent: 40
       #   icon: devicon/pytorch
-  # - name: Hobbies
-  #   color: '#eeac02'
-  #   color_border: '#f0bf23'
-  #   items:
-  #     - name: Running
-  #       description: ''
-  #       percent: 60
-  #       icon: person-simple-walk
-  #     - name: Cats
-  #       description: ''
-  #       percent: 100
-  #       icon: cat
-  #     - name: Photography
-  #       description: ''
-  #       percent: 80
-  #       icon: camera
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Running
+        description: 'I enjoy running in the winter'
+        percent: 60
+        icon: person-running
+      - name: Soccer
+        description: 'Playing soccer relieves my stress'
+        percent: 100
+        icon: soccer
+      - name: Programming
+        description: 'I make macros to make life easier'
+        percent: 95
+        icon: code-square
+      - name: Cooking
+        description: 'Master chef... but only for butter chicken'
+        percent: 5
+        icon: cooking-pot
 
 languages:
   - name: English
