@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Algorithm Engineer
+role: CS PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Stradvision
-    url: https://stradvision.com
+  - name: UT Austin
+    url: https://www.cs.utexas.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -40,9 +40,13 @@ profiles:
   #   url: https://www.instagram.com/
 
 education:
-  - area: Ms Electrical Engineering
+  - area: PhD Candidate - Computer Science
+    institution: University of Texas at Austin (UT Austin)
+    date_start: 2020-08-25
+    # date_end: 
+  - area: MS Electrical Engineering
     institution: Korea Advanced Institute of Science and Technology (KAIST)
-    #date_start: 2020-03-02
+    date_start: 2020-03-02
     date_end: 2022-02-27
     #summary: |
     #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
@@ -62,7 +66,7 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BS Electrical Engineering (Double Major in Mechanical Engineering)
     institution: Korea Advanced Institute of Science and Technology (KAIST)
-    # date_start: 2013-09-02
+    date_start: 2013-09-02
     date_end: 2020-02-25
     # summary: |
       # GPA: 3.4/4.0
@@ -77,7 +81,7 @@ work:
     company_url: 'stradvision.com'
     company_logo: 'sv.png'
     date_start: 2022-02-28
-    date_end: ''
+    date_end: 2025-07-28
     # summary: |2-
     #   Responsibilities include:
     #   # - lorem ipsum dolor sit amet, consectetur adipiscing elit
