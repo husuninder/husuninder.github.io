@@ -190,4 +190,4 @@ languages:
 ---
 
 <!-- I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization. -->
-I am currently working at StradVision as an Algorithm Engineer.
+I am a CS PhD Candidate at UT Austin under the guidance of Prof. Volkan Isler.
