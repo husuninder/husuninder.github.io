@@ -11,36 +11,38 @@ last_name: Hu
 
 # Status emoji
 status:
-  icon: 😁
+  icon: 🤘
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: CS PhD Candidate
+role: CS PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: UT Austin
-    url: https://www.cs.utexas.edu/
+  - name: UT Austin (RSN Lab)
+    url: https://rsn.cs.utexas.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:i.am.sumin.hu@gmail.com'
-    label: E-mail Me
+    url: 'mailto:sumin.hu@utexas.edu'
+    label: sumin [dot] hu [at] utexas [dot] edu
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   - icon: brands/github
     url: https://github.com/husuninder
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/sumin-hu-342207b8/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=3YQFYgcAAAAJ&hl
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
 
 education:
-  - area: PhD Candidate - Computer Science
+  - area: PhD - Computer Science
     institution: University of Texas at Austin (UT Austin)
     date_start: 2020-08-25
     # date_end: 
@@ -190,4 +192,4 @@ languages:
 ---
 
 <!-- I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization. -->
-I am a CS PhD Candidate at UT Austin under the guidance of Prof. Volkan Isler.
+I am a CS PhD Student at UT Austin under the guidance of Prof. Volkan Isler in the Robotics, Sensing and Networks (RSN) Lab. I have dealt with Event Cameras and Visual SLAM, and recently I am interested in 3D Reconstruction and World Models.
