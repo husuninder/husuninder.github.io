@@ -44,7 +44,7 @@ profiles:
 education:
   - area: PhD - Computer Science
     institution: University of Texas at Austin (UT Austin)
-    date_start: 2020-08-25
+    date_start: 2025-08-25
     # date_end: 
   - area: MS Electrical Engineering
     institution: Korea Advanced Institute of Science and Technology (KAIST)

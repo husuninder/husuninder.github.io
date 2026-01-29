@@ -1,0 +1,13 @@
+[workspace]
+authors = ["sumin <i.am.sumin.hu@gmail.com>"]
+channels = ["conda-forge"]
+name = "husuninder.github.io"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+deploy-local = "hugo server"
+
+[dependencies]
+hugo = ">=0.155.0,<0.156"
+go = ">=1.25.6,<2"
